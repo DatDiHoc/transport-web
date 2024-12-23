@@ -1,0 +1,3250 @@
+[03-Nov-2024 11:25:51 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2222
+    [payment_method] => cod
+    [notes] => 1
+    [product_names] => Array
+        (
+            [0] => 22
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 2
+        )
+
+    [subtotals] => Array
+        (
+            [0] => 2
+        )
+
+)
+
+[03-Nov-2024 11:25:51 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 11:30:26 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 333333333
+    [payment_method] => banking
+    [notes] => 1
+    [product_names] => Array
+        (
+            [0] => 12
+            [1] => 22
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 2
+            [1] => 3
+        )
+
+    [subtotals] => Array
+        (
+            [0] => 2
+            [1] => 3
+        )
+
+)
+
+[03-Nov-2024 11:30:26 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 11:30:26 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 333333333
+    [payment_method] => banking
+    [notes] => 1
+    [product_names] => Array
+        (
+            [0] => 12
+            [1] => 22
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 2
+            [1] => 3
+        )
+
+    [subtotals] => Array
+        (
+            [0] => 2
+            [1] => 3
+        )
+
+)
+
+[03-Nov-2024 11:30:26 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:33:10 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 1
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 1
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 1
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:33:10 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:33:10 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:64
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 64
+[03-Nov-2024 14:33:11 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 1
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 1
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 1
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:33:11 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:33:11 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:64
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 64
+[03-Nov-2024 14:34:13 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 1
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 12
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:34:13 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:34:13 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:78
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 78
+[03-Nov-2024 14:34:13 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 1
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 12
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:34:13 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:34:13 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:78
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 78
+[03-Nov-2024 14:36:16 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 1
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:36:16 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:36:16 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:84
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 84
+[03-Nov-2024 14:36:16 UTC] POST data received: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 1
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:36:16 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:36:16 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:84
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 84
+[03-Nov-2024 14:37:46 UTC] Processing order request
+[03-Nov-2024 14:37:46 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:37:46 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:37:46 UTC] Order error: Database connection failed
+[03-Nov-2024 14:37:46 UTC] Processing order request
+[03-Nov-2024 14:37:46 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:37:46 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:37:46 UTC] Order error: Database connection failed
+[03-Nov-2024 14:39:23 UTC] Database connection successful
+[03-Nov-2024 14:39:23 UTC] Database connection established in process_order.php
+[03-Nov-2024 14:39:23 UTC] Processing order request
+[03-Nov-2024 14:39:23 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:39:23 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:39:23 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 82
+[03-Nov-2024 14:39:23 UTC] Database connection successful
+[03-Nov-2024 14:39:23 UTC] Database connection established in process_order.php
+[03-Nov-2024 14:39:23 UTC] Processing order request
+[03-Nov-2024 14:39:23 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:39:23 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:39:23 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 82
+[03-Nov-2024 14:40:35 UTC] Order request - POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:40:35 UTC] Order request - Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:40:35 UTC] PHP Warning:  Undefined variable $order_id in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 44
+[03-Nov-2024 14:40:35 UTC] Order request - POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:40:35 UTC] Order request - Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:40:35 UTC] PHP Warning:  Undefined variable $order_id in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 44
+[03-Nov-2024 14:41:31 UTC] Order request - POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:41:31 UTC] Order request - Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:41:31 UTC] PHP Warning:  Undefined variable $order_id in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 44
+[03-Nov-2024 14:41:31 UTC] Order request - POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:41:31 UTC] Order request - Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:41:31 UTC] PHP Warning:  Undefined variable $order_id in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 44
+[03-Nov-2024 14:44:49 UTC] Order request - POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:44:49 UTC] Order request - Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:44:49 UTC] PHP Warning:  Undefined variable $order_id in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 44
+[03-Nov-2024 14:44:50 UTC] Order request - POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:44:50 UTC] Order request - Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:44:50 UTC] PHP Warning:  Undefined variable $order_id in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 44
+[03-Nov-2024 14:46:46 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 74
+[03-Nov-2024 14:46:46 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 74
+[03-Nov-2024 14:50:17 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:71
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 71
+[03-Nov-2024 14:50:17 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:71
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 71
+[03-Nov-2024 14:52:36 UTC] Starting order process
+[03-Nov-2024 14:52:36 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:52:36 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:52:36 UTC] Database connection successful
+[03-Nov-2024 14:52:36 UTC] Shipping name: 12
+[03-Nov-2024 14:52:36 UTC] Product names: Array
+(
+    [0] => 2
+)
+
+[03-Nov-2024 14:52:36 UTC] Total shipping fee calculated: 360000
+[03-Nov-2024 14:52:36 UTC] Transaction started
+[03-Nov-2024 14:52:36 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:96
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 96
+[03-Nov-2024 14:52:36 UTC] Starting order process
+[03-Nov-2024 14:52:36 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:52:36 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:52:36 UTC] Database connection successful
+[03-Nov-2024 14:52:36 UTC] Shipping name: 12
+[03-Nov-2024 14:52:36 UTC] Product names: Array
+(
+    [0] => 2
+)
+
+[03-Nov-2024 14:52:36 UTC] Total shipping fee calculated: 360000
+[03-Nov-2024 14:52:36 UTC] Transaction started
+[03-Nov-2024 14:52:36 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:96
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 96
+[03-Nov-2024 14:54:20 UTC] Starting order process
+[03-Nov-2024 14:54:20 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:54:20 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:54:20 UTC] Database connection successful
+[03-Nov-2024 14:54:20 UTC] Shipping name: 12
+[03-Nov-2024 14:54:20 UTC] Product names: Array
+(
+    [0] => 2
+)
+
+[03-Nov-2024 14:54:20 UTC] Total shipping fee calculated: 360000
+[03-Nov-2024 14:54:20 UTC] Transaction started
+[03-Nov-2024 14:54:20 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:96
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 96
+[03-Nov-2024 14:54:20 UTC] Starting order process
+[03-Nov-2024 14:54:20 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:54:20 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:54:20 UTC] Database connection successful
+[03-Nov-2024 14:54:20 UTC] Shipping name: 12
+[03-Nov-2024 14:54:20 UTC] Product names: Array
+(
+    [0] => 2
+)
+
+[03-Nov-2024 14:54:20 UTC] Total shipping fee calculated: 360000
+[03-Nov-2024 14:54:20 UTC] Transaction started
+[03-Nov-2024 14:54:20 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #7 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:96
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 96
+[03-Nov-2024 14:55:58 UTC] Processing order request
+[03-Nov-2024 14:55:58 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:55:58 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:55:58 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:97
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 97
+[03-Nov-2024 14:55:58 UTC] Processing order request
+[03-Nov-2024 14:55:58 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:55:58 UTC] Session data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:55:58 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:97
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 97
+[03-Nov-2024 14:57:32 UTC] Request started
+[03-Nov-2024 14:57:32 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:57:32 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:57:32 UTC] Database connection successful
+[03-Nov-2024 14:57:32 UTC] Input validation passed
+[03-Nov-2024 14:57:32 UTC] Transaction started
+[03-Nov-2024 14:57:32 UTC] Order inserted with ID: 1
+[03-Nov-2024 14:57:32 UTC] Processing product 0: 2
+[03-Nov-2024 14:57:32 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:107
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 107
+[03-Nov-2024 14:57:32 UTC] Request started
+[03-Nov-2024 14:57:32 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:57:32 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:57:32 UTC] Database connection successful
+[03-Nov-2024 14:57:32 UTC] Input validation passed
+[03-Nov-2024 14:57:32 UTC] Transaction started
+[03-Nov-2024 14:57:32 UTC] Order inserted with ID: 2
+[03-Nov-2024 14:57:32 UTC] Processing product 0: 2
+[03-Nov-2024 14:57:32 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:107
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 107
+[03-Nov-2024 14:58:29 UTC] Login attempt for username: dattt
+[03-Nov-2024 14:58:29 UTC] Login attempt for username: dattt
+[03-Nov-2024 14:58:43 UTC] Request started
+[03-Nov-2024 14:58:43 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 12
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:58:43 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:58:43 UTC] Database connection successful
+[03-Nov-2024 14:58:43 UTC] Input validation passed
+[03-Nov-2024 14:58:43 UTC] Transaction started
+[03-Nov-2024 14:58:43 UTC] Order inserted with ID: 3
+[03-Nov-2024 14:58:43 UTC] Processing product 0: 2
+[03-Nov-2024 14:58:43 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:107
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 107
+[03-Nov-2024 14:58:43 UTC] Request started
+[03-Nov-2024 14:58:43 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 12
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 14:58:43 UTC] SESSION data: Array
+(
+    [user_id] => 1
+    [username] => dattt
+    [full_name] => trandat
+    [logged_in] => 1
+)
+
+[03-Nov-2024 14:58:43 UTC] Database connection successful
+[03-Nov-2024 14:58:43 UTC] Input validation passed
+[03-Nov-2024 14:58:43 UTC] Transaction started
+[03-Nov-2024 14:58:43 UTC] Order inserted with ID: 4
+[03-Nov-2024 14:58:43 UTC] Processing product 0: 2
+[03-Nov-2024 14:58:43 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:107
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 107
+[03-Nov-2024 15:01:39 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 1232
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 15:01:39 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 94
+[03-Nov-2024 15:01:39 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 1232
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 15:01:39 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 94
+[03-Nov-2024 15:06:45 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 22
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 15:06:45 UTC] Order inserted with ID: 7
+[03-Nov-2024 15:06:45 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 22
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 15:06:45 UTC] Order inserted with ID: 8
+[03-Nov-2024 15:11:23 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 22
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[03-Nov-2024 15:11:23 UTC] Order inserted with ID: 9
+[03-Nov-2024 15:12:28 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 21
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 22
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 630000
+        )
+
+)
+
+[03-Nov-2024 15:12:28 UTC] Order inserted with ID: 10
+[03-Nov-2024 15:13:44 UTC] Received POST data: Array
+(
+    [username] => da
+    [full_name] => da
+    [email] => dt171203@gmail.com
+    [phone] => 0819691312
+    [address] => a
+    [password] => 12
+    [confirm_password] => 12
+    [terms] => on
+)
+
+[03-Nov-2024 15:13:44 UTC] Received POST data: Array
+(
+    [username] => da
+    [full_name] => da
+    [email] => dt171203@gmail.com
+    [phone] => 0819691312
+    [address] => a
+    [password] => 12
+    [confirm_password] => 12
+    [terms] => on
+)
+
+[03-Nov-2024 15:13:44 UTC] Registration error: Duplicate entry 'da' for key 'users.username'
+[03-Nov-2024 15:13:53 UTC] Login attempt for username: da
+[03-Nov-2024 15:13:53 UTC] Login attempt for username: da
+[03-Nov-2024 15:14:11 UTC] POST data: Array
+(
+    [shipping_name] => 2
+    [shipping_phone] => 22
+    [shipping_address] => 2
+    [payment_method] => cod
+    [notes] => 3
+    [product_names] => Array
+        (
+            [0] => 3
+        )
+
+    [quantities] => Array
+        (
+            [0] => 13
+        )
+
+    [length] => Array
+        (
+            [0] => 3
+        )
+
+    [width] => Array
+        (
+            [0] => 33
+        )
+
+    [height] => Array
+        (
+            [0] => 3
+        )
+
+    [weight] => Array
+        (
+            [0] => 3
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 520000
+        )
+
+)
+
+[03-Nov-2024 15:14:11 UTC] Order inserted with ID: 11
+[03-Nov-2024 15:30:25 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:32:08 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:33:50 UTC] POST data: Array
+(
+    [subject] => as
+    [message] => as
+)
+
+[03-Nov-2024 15:33:50 UTC] Session data: Array
+(
+    [user_id] => 3
+    [username] => da
+    [full_name] => da
+    [logged_in] => 1
+)
+
+[03-Nov-2024 15:33:50 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:33:50 UTC] Stack trace: #0 C:\Apache24\htdocs\Gerrapp\forms\process_contact.php(47): mysqli->prepare()
+#1 {main}
+[03-Nov-2024 15:35:32 UTC] Include path: .;C:\php\pear
+[03-Nov-2024 15:35:32 UTC] Current directory: C:\Apache24\htdocs\Gerrapp\forms
+[03-Nov-2024 15:35:32 UTC] Database config loaded: mysqli Object
+(
+    [affected_rows] => 0
+    [client_info] => mysqlnd 8.3.12
+    [client_version] => 80312
+    [connect_errno] => 0
+    [connect_error] => 
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [field_count] => 0
+    [host_info] => localhost via TCP/IP
+    [info] => 
+    [insert_id] => 0
+    [server_info] => 9.0.1
+    [server_version] => 90001
+    [sqlstate] => 00000
+    [protocol_version] => 10
+    [thread_id] => 1020
+    [warning_count] => 0
+)
+
+[03-Nov-2024 15:35:32 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in C:\Apache24\htdocs\Gerrapp\forms\process_contact.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_contact.php on line 22
+[03-Nov-2024 15:36:58 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:38:28 UTC] Session data: Array
+(
+    [user_id] => 3
+    [username] => da
+    [full_name] => da
+    [logged_in] => 1
+)
+
+[03-Nov-2024 15:38:28 UTC] POST data: Array
+(
+    [subject] => a
+    [message] => a
+)
+
+[03-Nov-2024 15:38:28 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:38:28 UTC] Stack trace: #0 C:\Apache24\htdocs\Gerrapp\forms\process_contact.php(72): mysqli->prepare()
+#1 {main}
+[03-Nov-2024 15:39:54 UTC] Session data: Array
+(
+    [user_id] => 3
+    [username] => da
+    [full_name] => da
+    [logged_in] => 1
+)
+
+[03-Nov-2024 15:39:54 UTC] POST data: Array
+(
+    [subject] => a
+    [message] => a
+)
+
+[03-Nov-2024 15:39:54 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:39:54 UTC] Stack trace: #0 C:\Apache24\htdocs\Gerrapp\forms\process_contact.php(72): mysqli->prepare()
+#1 {main}
+[03-Nov-2024 15:41:25 UTC] Session data: Array
+(
+    [user_id] => 3
+    [username] => da
+    [full_name] => da
+    [logged_in] => 1
+)
+
+[03-Nov-2024 15:41:25 UTC] POST data: Array
+(
+    [subject] => as
+    [message] => a
+)
+
+[03-Nov-2024 15:41:25 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:41:25 UTC] Stack trace: #0 C:\Apache24\htdocs\Gerrapp\forms\process_contact.php(72): mysqli->prepare()
+#1 {main}
+[03-Nov-2024 15:42:24 UTC] Session test - user_id: 3
+[03-Nov-2024 15:42:24 UTC] POST data: Array
+(
+    [subject] => as
+    [message] => a
+)
+
+[03-Nov-2024 15:42:24 UTC] Database connection successful
+[03-Nov-2024 15:42:24 UTC] Simple query successful
+[03-Nov-2024 15:42:24 UTC] Table check result: exists
+[03-Nov-2024 15:43:17 UTC] Session test - user_id: 3
+[03-Nov-2024 15:43:17 UTC] POST data: Array
+(
+    [subject] => as
+    [message] => a
+)
+
+[03-Nov-2024 15:43:17 UTC] Database connection successful
+[03-Nov-2024 15:43:17 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:43:17 UTC] Stack trace: #0 C:\Apache24\htdocs\Gerrapp\forms\process_contact.php(66): mysqli->prepare()
+#1 {main}
+[03-Nov-2024 15:45:26 UTC] Session test - user_id: 3
+[03-Nov-2024 15:45:26 UTC] Contact error: Unknown column 'name' in 'field list'
+[03-Nov-2024 15:45:26 UTC] Stack trace: #0 C:\Apache24\htdocs\Gerrapp\forms\process_contact.php(38): mysqli->prepare()
+#1 {main}
+[03-Nov-2024 15:53:24 UTC] Session test - user_id: 3
+[03-Nov-2024 16:05:27 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:07:45 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:12:37 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:16:12 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:17:01 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:20:35 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:26:07 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:26:27 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Apache24\htdocs\Gerrapp\includes\update_profile.php on line 18
+[03-Nov-2024 16:26:27 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Apache24\htdocs\Gerrapp\includes\update_profile.php on line 19
+[03-Nov-2024 16:27:45 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:30:20 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:32:40 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:35:19 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:35:32 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:40:59 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:41:31 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:41:44 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:42:06 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:44:09 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:45:18 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:46:02 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:46:23 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 16:52:55 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 17:06:10 UTC] Login attempt for username: dattt
+[03-Nov-2024 17:06:11 UTC] Login attempt for username: dattt
+[03-Nov-2024 17:06:15 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 17:06:22 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[03-Nov-2024 17:06:27 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:01:14 UTC] Login attempt for username: dattt
+[04-Nov-2024 06:01:14 UTC] Login attempt for username: dattt
+[04-Nov-2024 06:01:26 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:02:28 UTC] Session test - user_id: 1
+[04-Nov-2024 06:02:42 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:03:13 UTC] POST data: Array
+(
+    [shipping_name] => 123
+    [shipping_phone] => 23
+    [shipping_address] => 123
+    [payment_method] => banking
+    [notes] => 123
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1123
+        )
+
+    [length] => Array
+        (
+            [0] => 3
+        )
+
+    [width] => Array
+        (
+            [0] => 3
+        )
+
+    [height] => Array
+        (
+            [0] => 3
+        )
+
+    [weight] => Array
+        (
+            [0] => 3
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 44920000
+        )
+
+)
+
+[04-Nov-2024 06:03:13 UTC] Order inserted with ID: 12
+[04-Nov-2024 06:03:19 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:03:23 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:15:27 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:15:27 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:16:53 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:16:53 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:16:56 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:16:56 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:17:14 UTC] POST data: Array
+(
+    [shipping_name] => 123
+    [shipping_phone] => 123
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 360000
+        )
+
+)
+
+[04-Nov-2024 06:17:14 UTC] Order inserted with ID: 13
+[04-Nov-2024 06:17:25 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:17:25 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:18:45 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:18:45 UTC] Get orders error: Unknown column 'o.tracking_number' in 'field list'
+[04-Nov-2024 06:27:14 UTC] Session test - user_id: 1
+[04-Nov-2024 06:27:51 UTC] Login attempt for username: dattt
+[04-Nov-2024 06:27:52 UTC] Login attempt for username: dattt
+[04-Nov-2024 07:08:54 UTC] Session test - user_id: 1
+[04-Nov-2024 07:28:04 UTC] POST data: Array
+(
+    [shipping_name] => 2
+    [shipping_phone] => 23
+    [shipping_address] => 11111111111
+    [payment_method] => cod
+    [notes] => 1
+    [product_names] => Array
+        (
+            [0] => 1
+        )
+
+    [quantities] => Array
+        (
+            [0] => 11
+        )
+
+    [length] => Array
+        (
+            [0] => 1
+        )
+
+    [width] => Array
+        (
+            [0] => 11
+        )
+
+    [height] => Array
+        (
+            [0] => 1
+        )
+
+    [weight] => Array
+        (
+            [0] => 1
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 220000
+        )
+
+)
+
+[04-Nov-2024 07:28:04 UTC] Order inserted with ID: 14
+[04-Nov-2024 07:29:52 UTC] POST data: Array
+(
+    [shipping_name] => 4
+    [shipping_phone] => 4
+    [shipping_address] => 4
+    [payment_method] => momo
+    [notes] => 4
+    [product_names] => Array
+        (
+            [0] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 14
+        )
+
+    [length] => Array
+        (
+            [0] => 4
+        )
+
+    [width] => Array
+        (
+            [0] => 44
+        )
+
+    [height] => Array
+        (
+            [0] => 4
+        )
+
+    [weight] => Array
+        (
+            [0] => 4
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 700000
+        )
+
+)
+
+[04-Nov-2024 07:29:52 UTC] Order inserted with ID: 15
+[04-Nov-2024 07:32:29 UTC] POST data: Array
+(
+    [shipping_name] => 6
+    [shipping_phone] => 6
+    [shipping_address] => 6
+    [payment_method] => cod
+    [notes] => 6
+    [product_names] => Array
+        (
+            [0] => 6
+        )
+
+    [quantities] => Array
+        (
+            [0] => 16
+        )
+
+    [length] => Array
+        (
+            [0] => 6
+        )
+
+    [width] => Array
+        (
+            [0] => 6
+        )
+
+    [height] => Array
+        (
+            [0] => 6
+        )
+
+    [weight] => Array
+        (
+            [0] => 6
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 1120000
+        )
+
+)
+
+[04-Nov-2024 07:32:29 UTC] Order inserted with ID: 16
+[04-Nov-2024 07:36:00 UTC] POST data: Array
+(
+    [shipping_name] => 6
+    [shipping_phone] => 6
+    [shipping_address] => 6
+    [payment_method] => cod
+    [notes] => 6
+    [product_names] => Array
+        (
+            [0] => 6
+        )
+
+    [quantities] => Array
+        (
+            [0] => 16
+        )
+
+    [length] => Array
+        (
+            [0] => 6
+        )
+
+    [width] => Array
+        (
+            [0] => 6
+        )
+
+    [height] => Array
+        (
+            [0] => 6
+        )
+
+    [weight] => Array
+        (
+            [0] => 6
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 
+        )
+
+)
+
+[04-Nov-2024 07:36:00 UTC] Order inserted with ID: 17
+[04-Nov-2024 07:36:13 UTC] POST data: Array
+(
+    [shipping_name] => 5
+    [shipping_phone] => 5
+    [shipping_address] => 5
+    [payment_method] => banking
+    [notes] => 5
+    [product_names] => Array
+        (
+            [0] => 5
+        )
+
+    [quantities] => Array
+        (
+            [0] => 15
+        )
+
+    [length] => Array
+        (
+            [0] => 5
+        )
+
+    [width] => Array
+        (
+            [0] => 5
+        )
+
+    [height] => Array
+        (
+            [0] => 5
+        )
+
+    [weight] => Array
+        (
+            [0] => 5
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 900000
+        )
+
+)
+
+[04-Nov-2024 07:36:13 UTC] Order inserted with ID: 18
+[05-Nov-2024 14:16:06 UTC] Login attempt for username: dattt
+[05-Nov-2024 14:16:07 UTC] Login attempt for username: dattt
+[05-Nov-2024 14:26:35 UTC] POST data: Array
+(
+    [shipping_name] => 12
+    [shipping_phone] => 22
+    [shipping_address] => 1
+    [payment_method] => banking
+    [notes] => 1
+    [product_names] => Array
+        (
+            [0] => 3
+        )
+
+    [quantities] => Array
+        (
+            [0] => 3
+        )
+
+    [length] => Array
+        (
+            [0] => 33
+        )
+
+    [width] => Array
+        (
+            [0] => 3
+        )
+
+    [height] => Array
+        (
+            [0] => 3
+        )
+
+    [weight] => Array
+        (
+            [0] => 3
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 120000
+        )
+
+)
+
+[05-Nov-2024 14:26:35 UTC] Order inserted with ID: 19
+[05-Nov-2024 15:00:31 UTC] Get orders error: Unknown column 'o.status' in 'field list'
+[05-Nov-2024 15:00:32 UTC] Get orders error: Unknown column 'o.status' in 'field list'
+[05-Nov-2024 15:00:33 UTC] Get orders error: Unknown column 'o.status' in 'field list'
+[05-Nov-2024 15:00:33 UTC] Get orders error: Unknown column 'o.status' in 'field list'
+[05-Nov-2024 15:01:49 UTC] Get orders error: Unknown column 'o.status' in 'field list'
+[05-Nov-2024 15:01:50 UTC] Get orders error: Unknown column 'o.status' in 'field list'
+[05-Nov-2024 16:49:43 UTC] Get message detail error: ID tin nhắn không hợp lệ
+[05-Nov-2024 16:51:20 UTC] Order details error: ID đơn hàng không hợp lệ
+[05-Nov-2024 16:51:23 UTC] Get message detail error: ID tin nhắn không hợp lệ
+[05-Nov-2024 16:53:27 UTC] Order details error: ID đơn hàng không hợp lệ
+[05-Nov-2024 16:57:08 UTC] Get message detail error: ID tin nhắn không hợp lệ
+[06-Nov-2024 06:36:37 UTC] Login attempt for username: dattt
+[06-Nov-2024 06:36:38 UTC] Login attempt for username: dattt
+[06-Nov-2024 06:39:21 UTC] Login attempt for username: dattt
+[06-Nov-2024 06:39:22 UTC] Login attempt for username: dattt
+[06-Nov-2024 07:03:57 UTC] Registration error: Mật khẩu phải có ít nhất 6 ký tự
+[06-Nov-2024 07:03:58 UTC] Registration error: Mật khẩu phải có ít nhất 6 ký tự
+[06-Nov-2024 07:04:09 UTC] Registration error: Mật khẩu xác nhận không khớp
+[06-Nov-2024 07:04:10 UTC] Registration error: Mật khẩu xác nhận không khớp
+[06-Nov-2024 07:04:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Apache24\htdocs\Gerrapp\forms\process_register.php on line 80
+[06-Nov-2024 07:04:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Apache24\htdocs\Gerrapp\forms\process_register.php on line 81
+[06-Nov-2024 07:04:21 UTC] Registration error: Số điện thoại không hợp lệ
+[06-Nov-2024 07:04:22 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Apache24\htdocs\Gerrapp\forms\process_register.php on line 80
+[06-Nov-2024 07:04:22 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Apache24\htdocs\Gerrapp\forms\process_register.php on line 81
+[06-Nov-2024 07:04:22 UTC] Registration error: Số điện thoại không hợp lệ
+[06-Nov-2024 07:08:13 UTC] Login attempt for username: ttdat
+[06-Nov-2024 07:08:13 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Nov-2024 07:08:39 UTC] Login attempt for username: ttd
+[06-Nov-2024 07:26:21 UTC] Registration error: Số điện thoại không hợp lệ
+[06-Nov-2024 07:26:28 UTC] Registration error: Số điện thoại không hợp lệ
+[06-Nov-2024 07:27:05 UTC] Login attempt for username: ttd
+[06-Nov-2024 13:51:00 UTC] Login attempt for username: ttd
+[06-Nov-2024 14:35:46 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 2
+    [shipping_phone] => 2
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 480000
+        )
+
+)
+
+[06-Nov-2024 14:35:47 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 2
+    [shipping_phone] => 2
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 480000
+        )
+
+)
+
+[06-Nov-2024 14:35:47 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 2
+    [shipping_phone] => 2
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 2
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 480000
+        )
+
+)
+
+[06-Nov-2024 14:39:55 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 2
+    [shipping_phone] => 2
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 02
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 480000
+        )
+
+)
+
+[06-Nov-2024 14:39:55 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 2
+    [shipping_phone] => 2
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 02
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 480000
+        )
+
+)
+
+[06-Nov-2024 14:39:56 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 2
+    [shipping_phone] => 2
+    [shipping_address] => 2
+    [payment_method] => banking
+    [notes] => 2
+    [product_names] => Array
+        (
+            [0] => 2
+        )
+
+    [quantities] => Array
+        (
+            [0] => 12
+        )
+
+    [length] => Array
+        (
+            [0] => 2
+        )
+
+    [width] => Array
+        (
+            [0] => 02
+        )
+
+    [height] => Array
+        (
+            [0] => 2
+        )
+
+    [weight] => Array
+        (
+            [0] => 2
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 480000
+        )
+
+)
+
+[06-Nov-2024 14:42:49 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 3
+    [shipping_phone] => 3
+    [shipping_address] => 3
+    [payment_method] => momo
+    [notes] => 3
+    [product_names] => Array
+        (
+            [0] => 3
+        )
+
+    [quantities] => Array
+        (
+            [0] => 13
+        )
+
+    [length] => Array
+        (
+            [0] => 3
+        )
+
+    [width] => Array
+        (
+            [0] => 3
+        )
+
+    [height] => Array
+        (
+            [0] => 03
+        )
+
+    [weight] => Array
+        (
+            [0] => 3
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 780000
+        )
+
+)
+
+[06-Nov-2024 14:42:49 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 3
+    [shipping_phone] => 3
+    [shipping_address] => 3
+    [payment_method] => momo
+    [notes] => 3
+    [product_names] => Array
+        (
+            [0] => 3
+        )
+
+    [quantities] => Array
+        (
+            [0] => 13
+        )
+
+    [length] => Array
+        (
+            [0] => 3
+        )
+
+    [width] => Array
+        (
+            [0] => 3
+        )
+
+    [height] => Array
+        (
+            [0] => 03
+        )
+
+    [weight] => Array
+        (
+            [0] => 3
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 780000
+        )
+
+)
+
+[06-Nov-2024 14:42:50 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 3
+    [shipping_phone] => 3
+    [shipping_address] => 3
+    [payment_method] => momo
+    [notes] => 3
+    [product_names] => Array
+        (
+            [0] => 3
+        )
+
+    [quantities] => Array
+        (
+            [0] => 13
+        )
+
+    [length] => Array
+        (
+            [0] => 3
+        )
+
+    [width] => Array
+        (
+            [0] => 3
+        )
+
+    [height] => Array
+        (
+            [0] => 03
+        )
+
+    [weight] => Array
+        (
+            [0] => 3
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 780000
+        )
+
+)
+
+[06-Nov-2024 14:45:09 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 12
+    [shipping_phone] => 0819691312
+    [shipping_address] => 3
+    [payment_method] => cod
+    [notes] => 3
+    [product_names] => Array
+        (
+            [0] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 14
+        )
+
+    [length] => Array
+        (
+            [0] => 4
+        )
+
+    [width] => Array
+        (
+            [0] => 4
+        )
+
+    [height] => Array
+        (
+            [0] => 4
+        )
+
+    [weight] => Array
+        (
+            [0] => 4
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 1120000
+        )
+
+)
+
+[06-Nov-2024 14:45:09 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 12
+    [shipping_phone] => 0819691312
+    [shipping_address] => 3
+    [payment_method] => cod
+    [notes] => 3
+    [product_names] => Array
+        (
+            [0] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 14
+        )
+
+    [length] => Array
+        (
+            [0] => 4
+        )
+
+    [width] => Array
+        (
+            [0] => 4
+        )
+
+    [height] => Array
+        (
+            [0] => 4
+        )
+
+    [weight] => Array
+        (
+            [0] => 4
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 1120000
+        )
+
+)
+
+[06-Nov-2024 14:45:10 UTC] POST data: Array
+(
+    [csrf_token] => ff0a99455841f9316d4bf31d04a83275a805e21c606a1a471e166d3267e3e3ff
+    [shipping_name] => 12
+    [shipping_phone] => 0819691312
+    [shipping_address] => 3
+    [payment_method] => cod
+    [notes] => 3
+    [product_names] => Array
+        (
+            [0] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 14
+        )
+
+    [length] => Array
+        (
+            [0] => 4
+        )
+
+    [width] => Array
+        (
+            [0] => 4
+        )
+
+    [height] => Array
+        (
+            [0] => 4
+        )
+
+    [weight] => Array
+        (
+            [0] => 4
+        )
+
+    [shipping_fees] => Array
+        (
+            [0] => 1120000
+        )
+
+)
+
+[06-Nov-2024 14:45:38 UTC] Session test - user_id: 8
+[06-Nov-2024 16:01:12 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:01:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gerrapp_db.contacts' doesn't exist in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php:10
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\admin\dashboard.php(10): mysqli->query()
+#1 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php on line 10
+[06-Nov-2024 16:03:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php:76
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php on line 76
+[06-Nov-2024 16:19:24 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:23:12 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:23:13 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:25:49 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:25:50 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:25:57 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:25:58 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:28:08 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:28:09 UTC] Login attempt for username: dattt
+[06-Nov-2024 16:34:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php:35
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\admin\dashboard.php(35): mysqli->query()
+#1 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php on line 35
+[06-Nov-2024 17:01:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reply_date' in 'field list' in C:\Apache24\htdocs\Gerrapp\admin\forms\reply_contact.php:19
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\admin\forms\reply_contact.php(19): mysqli->prepare()
+#1 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\admin\forms\reply_contact.php on line 19
+[06-Nov-2024 17:01:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reply_date' in 'field list' in C:\Apache24\htdocs\Gerrapp\admin\forms\reply_contact.php:19
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\admin\forms\reply_contact.php(19): mysqli->prepare()
+#1 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\admin\forms\reply_contact.php on line 19
+[07-Nov-2024 11:16:41 UTC] Login attempt for username: dattt
+[07-Nov-2024 11:16:41 UTC] Login attempt for username: dattt
+[07-Nov-2024 12:04:29 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\Apache24\htdocs\Gerrapp\includes\header.php:49
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\includes\header.php(49): implode()
+#1 C:\Apache24\htdocs\Gerrapp\admin\manage_orders.php(127): include('...')
+#2 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\includes\header.php on line 49
+[07-Nov-2024 12:04:33 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\Apache24\htdocs\Gerrapp\includes\header.php:49
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\includes\header.php(49): implode()
+#1 C:\Apache24\htdocs\Gerrapp\admin\manage_orders.php(127): include('...')
+#2 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\includes\header.php on line 49
+[07-Nov-2024 12:26:00 UTC] Login attempt for username: dattt
+[07-Nov-2024 12:26:00 UTC] Login attempt for username: dattt
+[07-Nov-2024 13:41:35 UTC] Session test - user_id: 1
+[07-Nov-2024 13:42:58 UTC] Login attempt for username: dattt
+[07-Nov-2024 13:42:58 UTC] Login attempt for username: dattt
+[08-Nov-2024 08:02:13 UTC] Login attempt for username: dattt
+[08-Nov-2024 08:02:13 UTC] Login attempt for username: dattt
+[08-Nov-2024 09:33:05 UTC] Driver error: Invalid action
+[08-Nov-2024 09:40:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ACS LIMIT 0, 10' at line 1 in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php:239
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\admin\dashboard.php(239): mysqli->query()
+#1 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\admin\dashboard.php on line 239
+[08-Nov-2024 09:51:29 UTC] PHP Warning:  Array to string conversion in C:\Apache24\htdocs\Gerrapp\includes\footer.php on line 153
+[08-Nov-2024 09:51:32 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Apache24\htdocs\Gerrapp\includes\header.php on line 50
+[08-Nov-2024 09:52:29 UTC] PHP Warning:  Array to string conversion in C:\Apache24\htdocs\Gerrapp\includes\footer.php on line 153
+[08-Nov-2024 09:58:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gerrapp_db.contacts' doesn't exist in C:\Apache24\htdocs\Gerrapp\admin\manage_contacts.php:139
+Stack trace:
+#0 C:\Apache24\htdocs\Gerrapp\admin\manage_contacts.php(139): mysqli->query()
+#1 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\admin\manage_contacts.php on line 139
+[08-Nov-2024 10:02:06 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Apache24\htdocs\Gerrapp\includes\header.php on line 50
+[08-Nov-2024 10:31:36 UTC] Registration error: Mật khẩu phải có ít nhất 6 ký tự
+[08-Nov-2024 10:31:43 UTC] Registration error: Email đã được sử dụng
+[08-Nov-2024 10:32:00 UTC] Login attempt for username: aaa
+[08-Nov-2024 10:32:00 UTC] Login attempt for username: aaa
+[12-Nov-2024 09:21:34 UTC] Login attempt for username: dattt
+[12-Nov-2024 09:21:35 UTC] Login attempt for username: dattt
+[06-Dec-2024 13:43:12 UTC] Login attempt for username: dattt
+[06-Dec-2024 13:43:13 UTC] Login attempt for username: dattt
+[06-Dec-2024 13:44:00 UTC] Login attempt for username: da
+[06-Dec-2024 13:44:00 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:00 UTC] Login attempt for username: da
+[06-Dec-2024 13:44:00 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:04 UTC] Login attempt for username: da
+[06-Dec-2024 13:44:04 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:04 UTC] Login attempt for username: da
+[06-Dec-2024 13:44:04 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:14 UTC] Login attempt for username: da
+[06-Dec-2024 13:44:14 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:14 UTC] Login attempt for username: da
+[06-Dec-2024 13:44:14 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:22 UTC] Login attempt for username: trandat
+[06-Dec-2024 13:44:22 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:22 UTC] Login attempt for username: trandat
+[06-Dec-2024 13:44:22 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:25 UTC] Login attempt for username: trandat
+[06-Dec-2024 13:44:25 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:25 UTC] Login attempt for username: trandat
+[06-Dec-2024 13:44:25 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:25 UTC] Login attempt for username: trandat
+[06-Dec-2024 13:44:25 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:25 UTC] Login attempt for username: trandat
+[06-Dec-2024 13:44:25 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:34 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:34 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:34 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:34 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:37 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:37 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:37 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:37 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:44 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:44 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:44 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:44 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:48 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:48 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:48 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:48 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:49 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:49 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:49 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:49 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:50 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:50 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:50 UTC] Login attempt for username: asd
+[06-Dec-2024 13:44:50 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:57 UTC] Login attempt for username: dat
+[06-Dec-2024 13:44:57 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:57 UTC] Login attempt for username: dat
+[06-Dec-2024 13:44:57 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:57 UTC] Login attempt for username: dat
+[06-Dec-2024 13:44:57 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:44:57 UTC] Login attempt for username: dat
+[06-Dec-2024 13:44:57 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:45:03 UTC] Login attempt for username: dattt
+[06-Dec-2024 13:45:03 UTC] Login attempt for username: dattt
+[06-Dec-2024 13:45:31 UTC] Login attempt for username: ttd
+[06-Dec-2024 13:45:31 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:45:31 UTC] Login attempt for username: ttd
+[06-Dec-2024 13:45:31 UTC] Login error: Tên đăng nhập hoặc mật khẩu không đúng
+[06-Dec-2024 13:45:34 UTC] Login attempt for username: ttd
+[06-Dec-2024 13:45:34 UTC] Login attempt for username: ttd
+[06-Dec-2024 13:53:30 UTC] Order error: User not authenticated
+[06-Dec-2024 13:53:30 UTC] Order error: User not authenticated
+[06-Dec-2024 13:53:30 UTC] Order error: User not authenticated
+[14-Dec-2024 13:24:56 UTC] Login attempt for username: dattt
+[14-Dec-2024 13:24:57 UTC] Login attempt for username: dattt

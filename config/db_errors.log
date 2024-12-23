@@ -1,0 +1,38 @@
+[31-Oct-2024 11:00:07 UTC] Received POST data: Array
+(
+    [sender_name] => 1
+    [sender_phone] => 1
+    [sender_email] => dt17949@gmail.com1
+    [sender_address] => 1
+    [receiver_name] => 1
+    [receiver_phone] => 1
+    [receiver_email] => dt1949@gmail.com
+    [receiver_address] => 1
+    [package_type] => document
+    [weight] => 1
+    [dimensions] => 1
+    [special_instructions] => 1
+)
+
+[31-Oct-2024 11:00:07 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 could not be passed by reference in C:\Apache24\htdocs\Gerrapp\forms\process_order.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\Gerrapp\forms\process_order.php on line 67
+[31-Oct-2024 11:00:18 UTC] New contact form submission saved. ID: 3
+[31-Oct-2024 11:02:34 UTC] Received POST data: Array
+(
+    [sender_name] => 1
+    [sender_phone] => 1
+    [sender_email] => dt17949@gmail.com
+    [sender_address] => 1
+    [receiver_name] => 1
+    [receiver_phone] => 1
+    [receiver_email] => dt1949@gmail.com
+    [receiver_address] => 1
+    [package_type] => document
+    [weight] => 1
+    [dimensions] => 1
+    [special_instructions] => 1
+)
+
+[31-Oct-2024 11:02:34 UTC] Order processing error: Unknown column 'receiver_email' in 'field list'
